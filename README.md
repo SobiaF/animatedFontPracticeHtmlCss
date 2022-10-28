@@ -1,2 +1,2 @@
 # animatedFontPracticeHtmlCss
-practice for animated text using mainly CSS (and some html)
+Practice for animated text using mainly CSS (and some html)
