@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    background-color: #fff2cc;
+}
+
+h1 {
+    font-family: "Rancho";
+    font-size: 140px;
+    padding-left: 100px;
+}
+
+div {
+   width: 200px;
+   height: 200px;
+   position: relative;
+   animation-name: animation;
+   animation-duration: 4s;
+}
+
+@keyframes animation {
+    25% {left:400px; top:0px;}
+}
